@@ -1,4 +1,4 @@
 [gerrit]
 host=review.opendev.org
 port=29418
-project=x/xstatic-angular-fileupload.git
+project=openstack/xstatic-angular-fileupload.git
